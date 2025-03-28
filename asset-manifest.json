@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Hussam-College/static/css/main.2025fc60.css",
-    "main.js": "/Hussam-College/static/js/main.cd0dedc2.js",
+    "main.js": "/Hussam-College/static/js/main.84ea01cb.js",
     "static/js/453.ab6cc39c.chunk.js": "/Hussam-College/static/js/453.ab6cc39c.chunk.js",
     "index.html": "/Hussam-College/index.html",
     "main.2025fc60.css.map": "/Hussam-College/static/css/main.2025fc60.css.map",
-    "main.cd0dedc2.js.map": "/Hussam-College/static/js/main.cd0dedc2.js.map",
+    "main.84ea01cb.js.map": "/Hussam-College/static/js/main.84ea01cb.js.map",
     "453.ab6cc39c.chunk.js.map": "/Hussam-College/static/js/453.ab6cc39c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2025fc60.css",
-    "static/js/main.cd0dedc2.js"
+    "static/js/main.84ea01cb.js"
   ]
 }
